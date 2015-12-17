@@ -81,4 +81,4 @@ cd /Applications
 
 
 Build borrowed from: https://github.com/pykler/led-backlight-osx
-Thanks #####@pykler!
+Thanks @pykler!
