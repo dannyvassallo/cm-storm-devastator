@@ -66,7 +66,7 @@ cd /Applications
 
 21) Paste in this script:
 
-```
+```shell
 cd /Applications
 ./led-backlight-osx off
 ```
@@ -80,5 +80,5 @@ cd /Applications
 25) Assign a key shortcut to turn the keyboard off.
 
 
-Build borrowed from: (https://github.com/pykler/led-backlight-osx)[https://github.com/pykler/led-backlight-osx]
-Thanks pykler!
+Build borrowed from: https://github.com/pykler/led-backlight-osx
+Thanks #####@pykler!
